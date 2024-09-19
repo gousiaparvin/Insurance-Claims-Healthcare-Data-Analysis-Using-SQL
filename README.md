@@ -9,6 +9,9 @@ Data description: Kaggle - https://www.kaggle.com/datasets/thedevastator/insuran
 Performed the following queries:
 
 1.Show records of 'male' patient from 'southwest' region. q1
+![image](https://github.com/user-attachments/assets/76ec2e58-ef68-4d2a-899c-6610e6775d2b)
+
+
 
 2.Show all records having bmi in range 30 to 45 both inclusive. q2
 
